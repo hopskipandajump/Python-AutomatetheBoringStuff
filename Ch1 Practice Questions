@@ -1,0 +1,23 @@
+Ch1 Practice Questions
+
+1.  *=operator
+    'hello'=value
+    -88.8=value
+    -=operator
+    /=operator
+    +=operator
+    5=value
+2.  spam=variable
+    'spam'=string
+3.  floating point numbers
+    integers
+    strings
+4. An expression is made up of a list of instructions executed left to right. All experssions evaluate down to a value.
+5. A statement sets a value, an expression evaluates down to a value.
+6. 21
+7.? Not sure
+8. variable names must not start with a number
+9. int(), float(), str()
+10. because strings and values cannot be added. 
+    'I have eaten ' + '99' + 'burritos.'
+EC: round() rounds to the nth digit specified after the comma.if negative it means left of decimal.
